@@ -3,8 +3,8 @@ You'll find various materials from the Telugu classes that I, `@MiserablyFly7`, 
 
 ## Media recommendations
 
-https://www.instagram.com/bhashawithabhilasha/
-https://www.instagram.com/telugu.nerchuko/
+https://www.instagram.com/bhashawithabhilasha/  
+https://www.instagram.com/telugu.nerchuko/  
 https://www.instagram.com/telugucollective/
 
 ## [Class 1](https://github.com/miserablefly/teluguClass-with-Fly-SAL/tree/main/Class%201)
