@@ -8,6 +8,8 @@ These are the words for "I", "you", "we" etc. in all their different forms. For 
 
 ## **Unḍu** = "to be"
 
+The *infinitive form* of the verb "to be" is **unḍaḍam**, and this corresponds to the usage *being* in English. The imperative form (command) is **unḍu**, as in **ikkaḍa unḍu** = "be here!". To make it respectful (request), attach **-anḍi** at the end, to make **unḍandi** = "please be". This is applicable to other verbs too - **čeyyi** = "do" -> **čeyyanḍi** = "please do".
+
 ## Question words
 
 Question words in Telugu mostly start with the sounds **e** or **ē**.
