@@ -16,12 +16,12 @@ Question words in Telugu mostly start with the sounds **e** or **ē**.
 
 | Word      |Meaning|
 | ----------|-------|
-| ekkaḍa    | where |
-| eppuḍu    | when  |
-| elā       | how   |
-| enṭi      | what  |
-| ēm        | what  |
-| enduku    | why   |
-| evaru     | who   |
-| enta      | how much |
-| yē        | which |
+| **ekkaḍa**    | "where" |
+| **eppuḍu**    | "when"  |
+| **elā**       | "how"   |
+| **enṭi**      | "what"  |
+| **ēm**        | "what"  |
+| **enduku**    | "why"   |
+| **evaru**     | "who"   |
+| **enta**      | "how much" |
+| **yē**        | "which" |
