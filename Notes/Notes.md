@@ -13,7 +13,7 @@ These are the words for "I", "you", "we" etc. in all their different forms. For 
 Question words in Telugu mostly start with the sounds **e** or **ē**.
 
 | Word      |Meaning|
-| ----------|:-----:|
+| ----------|-------|
 | ekkaḍa    | where |
 | eppuḍu    | when  |
 | elā       | how   |
