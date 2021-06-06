@@ -24,18 +24,17 @@ Most nouns in Telugu form their plurals by adding on **-lu** or **ḷḷu** at t
 >> **rātri** ("night") -> **rātrulu** ("night")  
 >> **katti** ("knife") -> **kattulu** ("knifes")  
 >> **pilli** ("cat") -> **pillulu** ("cats")
+>> **manishi** ("human") -> **manishulu** ("humans") 
 
-> words ending in **-lu**: remove **-lu**, add **-ḷḷu**  
+> words ending in **-lu**/**-llu**: remove **-lu**/**-llu**, add **-ḷḷu**  
 >> **kālu** ("leg") -> **kāḷḷu** ("legs")  
 >> **vēlu** ("finger") -> **vēḷḷu** ("fingers")  
 >> **railu** ("train") -> **raiḷḷu** ("trains")  
 >> **mullu** ("thorn") -> **muḷḷu** ("thorns")  
-
-> words ending in **-ru**: remove **-ru**, add **-ḷḷu**  
->> **āḍavāru** ("") -> **kāḷḷu** ("legs")  
->> **vēlu** ("finger") -> **vēḷḷu** ("fingers")  
->> **railu** ("train") -> **raiḷḷu** ("trains")
-
+ 
+> words ending in **-ru**: remove **-u**, add **-lu**  
+>> **vēru** ("root") -> **vērlu** ("roots")  
+>> **nōru** ("mouth") -> **nōrlu** ("mouths")  
 
 ## Question words
 
