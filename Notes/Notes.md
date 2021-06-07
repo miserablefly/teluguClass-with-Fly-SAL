@@ -101,21 +101,37 @@ The imperative form (command) is **unḍu**, as in **ikkaḍa unḍu** = "be her
 
 > **-andi** at the end of words and sentences makes them respectful. In fact, one can attach **-andi** to every word in a sentence, but that would sound funny.
 
+#### Present tense forms of **unḍu** marked for persons
+| *I am, you are, she is, etc.*| Meaning | Notes |
+| ----------|-------|-------|
+| **nēnu unnānu**     | "I am" | |
+| **mēmu/manamu unnāmu** | "We are" | **manamu** includes the person being spoken to|
+| **nuvvu unnāvu**    | "You are" | informal |
+| **adi/āme undi**     | "It/she is" | same form for **idi**|
+| **avi unnāyi**     | "They are" | inanimate objects |
+| **atanu unnādu**    | "He is" | informal |
+| **mīru/āyana/āviḍa/vāru/vāḷḷu unnāru**   | "You/he/she/they/they are" |plural and respectful forms |
+> **vāru** is the gender-neutral pronoun  
+> only **adi/āme undi** doesn't have the **-ā-** sound in the middle, the singular (3rd) object form often has exceptions  
+> all plural and respectful forms (except for "we") take the ending **-ru**: **unnāru**
+
 ## Tenses
 
-The three basic tenses in Telugu are the past tense, present tense and future tense. There are a bunch of other tenses and moods including perfective, completive, obligation, hortative etc. [check these names] that get formed using various participles and helper auxilliary verbs. The basic verb word in Telugu takes the following form: **STEM-TENSE-PERSON** (S-T-P). The verb stem might change between the different tenses and forms, and some forms of the verbs don't mark for the person endings. 
+The three basic tenses in Telugu are the *past tense*, *present tense* and *future tense*. There are a bunch of other tenses and moods including *perfective*, *completive*, *modal*, *hortative* etc. that get formed using various *participles* and helper *auxilliary verbs*. The basic verb word in Telugu takes the following form: **STEM-TENSE-PERSON** (S-T-P). The verb stem might change between the different tenses and forms, and some forms of the verbs don't mark for the person endings. The tense marker often changes between different verbs. Telugu uses a lot of compound verbs, putting together two or more verbs together with only the last verb marking for the person. The simplest example of this is the *present continuous form* which makes use of the verb **unḍu** = "to be" in the following structure: **PRESENT_PARTICIPLE-UNḌU-PERSON**. We'll discover more complex structures like this but the idea is not to memorize this meaninglessly but rather use it as a guide for our brain to acquire the language.
 
-> For the verb **čeyyi** = "do", we have the following  
+> For the verb **čeyyi** = "do", we have the following:  
 >> PAST (**-ā-**): **nēnu cēsānu** [S-T-P: **cēs-ā-nu**] = "I did", **mīru cēsāru** [S-T-P: **cēs-ā-ru**] = "You (resp.) did"  
 >> FUTURE/HABITUAL (**-tā-**): **nēnu cēstānu** [S-T-P: **cēs-tā-nu**] = "I will do" / "I do", **mīru cēstāru** [S-T-P: **cēs-tā-ru**] = "You (resp.) will do" / "You (resp.) do"  
->> PRESENT (**-t-**): **nēnu cēstunnānu** [S-T-P: **cēs-t-unnānu**] = "I am doing", **mīru cēstunnāru** [S-T-P: **cēs-t-unnāru**] = "You (resp.) are doing"  
+>> PRESENT (**-t-**): **nēnu cēstunnānu** [PrP-UNḌU-P: **cēs-t-unnānu**] = "I am doing", **mīru cēstunnāru** [PrP-UNḌU-P: **cēs-t-unnāru**] = "You (resp.) are doing"  
 >> INFINITE (**-aḍam**): **nāku čeyyaḍam ishṭam** = "I like to do", **mīku čeyyaḍam ishṭam** = "You (resp.) like to do"  
+We see that the stem changes between **čeyy** in the imperative and the infinitive, and **čes** in the past, future/habitual and present tenses. 
 
-> For the verb **rā** = "come", we have the following  
+> For the verb **rā** = "come", we have the following:  
 >> PAST (**-ā-**): **nēnu vaččānu** [S-T-P: **vačč-ā-nu**] = "I came", **mīru vaččāru** [S-T-P: **vačč-ā-ru**] = "You (resp.) came"  
 >> FUTURE/HABITUAL (**-tā-**): **nēnu vastānu** [S-T-P: **vas-tā-nu**] = "I will come" / "I come", **mīru vastāru** [S-T-P: **vas-tā-ru**] = "You (resp.) will come" / "You (resp.) come"  
->> PRESENT (**-t-**): **nēnu vastunnānu** [S-T-P: **vas-t-unnānu**] = "I am coming", **mīru vastunnāru** [S-T-P: **vas-t-unnāru**] = "You (resp.) are coming"  
->> INFINITE (**-aḍam**): **nāku rāvaḍam ishṭam** = "I like to come", **mīku rāvaḍam ishṭam** = "You (resp.) like to come"
+>> PRESENT (**-t-**): **nēnu vastunnānu** [PrP-UNḌU-P: **vas-t-unnānu**] = "I am coming", **mīru vastunnāru** [PrP-UNḌU-P: **vas-t-unnāru**] = "You (resp.) are coming"  
+>> INFINITE (**-aḍam**): **nāku rāvaḍam ishṭam** = "I like to come", **mīku rāvaḍam ishṭam** = "You (resp.) like to come"  
+The stem changes between **rā** in the imperative and the infinitive (an additional **-v-** pops up to facilitate the fusion of **rā** and **aḍam**), **vačč** in the past, and **vas** future/habitual and present tenses. 
 
 ## Post-positions
 ## Adverbs
