@@ -7,6 +7,7 @@ https://www.instagram.com/bhashawithabhilasha/
 https://www.instagram.com/telugu.nerchuko/  
 https://www.instagram.com/telugucollective/  
 https://www.bhasha.io/telugu/
+https://www.instagram.com/telugu_bhaashaamrutam/
 
 ## [Class 1](https://github.com/miserablefly/teluguClass-with-Fly-SAL/tree/main/Class%201)
 21 May 2021  
